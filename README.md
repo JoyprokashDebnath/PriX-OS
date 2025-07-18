@@ -30,10 +30,10 @@ prix-os/
 ```
 
 ## 👥 Contributors
-- **Project Lead**: [Your Name or GitHub Handle]
+- **Project Lead**: https://github.com/JoyprokashDebnath
 
 ## 🛠️ License
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the (LICENSE) file for details.
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
